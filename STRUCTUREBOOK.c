@@ -20,7 +20,7 @@ int main(){
 printf("title:%s\n",structurebook.title);
 printf("author:%s\n",structurebook.author);
 printf("ISBN:%d\n",structurebook.ISBN);
-printf("price:%d\n",structurebook.price);
+printf("price:%f\n",structurebook.price);
 printf("publication_year:%d",structurebook.publication_year);
 return 0;
 }	
