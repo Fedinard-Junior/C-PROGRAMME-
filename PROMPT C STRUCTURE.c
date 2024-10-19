@@ -19,7 +19,7 @@ int main(){
 	printf("Enter ISBN:");
 	scanf("%d",&structurebook.ISBN);
 	printf("Enter price:");
-	scanf("%d",&structurebook.price);
+	scanf("%f",&structurebook.price);
 	
 	
 //print the output
